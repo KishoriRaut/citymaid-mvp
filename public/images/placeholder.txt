@@ -1,0 +1,9 @@
+The following images need to be added to this directory:
+
+1. services-collage.jpg - A collage of domestic service images
+2. about-team.jpg - Team photo or office image
+3. pricing-handshake.jpg - Image representing pricing/agreement
+4. testimonials-happy-family.jpg - Happy family with domestic helper
+5. contact-support.jpg - Customer support/contact center image
+
+Please add appropriate images with these filenames to resolve the 404 errors. 
