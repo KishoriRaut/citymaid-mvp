@@ -1,0 +1,3 @@
+[submodule "citymaid-mvp"]
+	path = citymaid-mvp
+	url = https://github.com/KishoriRaut/citymaid-mvp.git
